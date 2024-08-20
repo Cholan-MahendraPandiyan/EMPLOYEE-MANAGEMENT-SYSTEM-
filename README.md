@@ -75,7 +75,7 @@ Here's a brief intro about what a developer must do in order to start developing
 the project further:
 
 ```shell
-gh repo clone Vidhinpatel08/Employee-Management-System
+gh repo clone Cholan-MahendraPandiyan/EMPLOYEE-MANAGEMENT-SYSTEM
 cd Employee-Management-System/
 
 ```
